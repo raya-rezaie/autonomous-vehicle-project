@@ -11,3 +11,5 @@
 - write a c code for tcp connection
 - wrtie a c code for udp connection
 - write tests for each code
+
+  ### task 2.2 creating linux log file
