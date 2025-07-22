@@ -45,7 +45,6 @@ holds every user's last login as a binary file
 
  ## /var/log/httpdl
   a directory containing error_log and access_log files of the Apache httpd daemon. error_log has
-
   all errors that httpd have faced and access_log logs all requests that come in via http.
 
   ## /var/log/mysqld.log or /var/log/mysql.log
