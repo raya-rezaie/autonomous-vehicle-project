@@ -6,7 +6,7 @@
 **DoR:**
 - review tcp and udp connections
 - study about socket programming
-
+ 
 **DoD:**
 - write a c code for tcp connection
 - wrtie a c code for udp connection
@@ -21,8 +21,8 @@
 - add messages to client code , also track the start and finish code
 - review regex in python
 - get a export from log paths
-
-  **DoD:**
-  - write a python code that extracts different fields with regex
-  - write a python code that turns the extracted files to csv
+  
+**DoD:**
+- write a python code that extracts different fields with regex
+- write a python code that turns the extracted files to csv
 
