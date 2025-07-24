@@ -12,7 +12,7 @@
 - wrtie a c code for udp connection
 - write tests for each code
 
-  ### task 1.2 creating linux log file
+### task 1.2 creating linux log file
 
 ### task 1.3 making csv file out of logs
 **Date:** Mordad 2
