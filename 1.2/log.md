@@ -1,5 +1,5 @@
 
-### different linux log paths
+### Different linux log paths
 
 ## /var/log/syslog or /var/log/message
  general system activity logs
