@@ -1,0 +1,1263 @@
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot df38f1d7675a49c2a38a4571e29b6b59 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot 9a6fa109db284e1d8a8ac4ba3c9a019a --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot c8025b4165764b97a7c46b97433eafba --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot 6c3da6e63ef54df19fbfd66a9ed7c86d --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+                                                              0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                              1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                              2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                              3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot 343d0cf93995486c824e6a74018bfd43 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:93 (1ad0c577f100 @ 52)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:279 (1ad0c577f7e0 @ 39)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:96 (1ad0c577f100 @ 96)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:119 (1ad0c577f100 @ 369)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd65587370 b   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd65587370 b   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd65587370 b   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:136 (1ad0c577f100 @ 500)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:138 (1ad0c577f100 @ 572)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd65587360 b   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd65587360 b   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd65587360 b   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:93 (1ad0c577f100 @ 52)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:279 (1ad0c577f7e0 @ 39)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:96 (1ad0c577f100 @ 96)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:119 (1ad0c577f100 @ 369)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:136 (1ad0c577f100 @ 500)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:138 (1ad0c577f100 @ 572)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:93 (1ad0c577f100 @ 52)
+                                                             #1   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd655872c0 b   resource:///org/gnome/shell/ui/environment.js:279 (1ad0c577f7e0 @ 39)
+                                                             #1   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:96 (1ad0c577f100 @ 96)
+                                                             #2   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:119 (1ad0c577f100 @ 369)
+                                                             #1   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd655872c0 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd655872c0 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd655872c0 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:136 (1ad0c577f100 @ 500)
+                                                             #1   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14c0 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14c0 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14c0 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:138 (1ad0c577f100 @ 572)
+                                                             #1   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd655872c0 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd655872c0 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd655872c0 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   7ffd655873a0 b   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   7ffd65587470 b   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:93 (1ad0c577f100 @ 52)
+                                                             #1   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #4   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/shell/ui/environment.js:279 (1ad0c577f7e0 @ 39)
+                                                             #1   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:96 (1ad0c577f100 @ 96)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:119 (1ad0c577f100 @ 369)
+                                                             #1   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #4   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd655871f0 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd655871f0 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd655871f0 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:136 (1ad0c577f100 @ 500)
+                                                             #1   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #4   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:138 (1ad0c577f100 @ 572)
+                                                             #1   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #4   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd655871f0 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd655871f0 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14e0 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd655871f0 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1410 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   7ffd65587ca0 b   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:93 (1ad0c577f100 @ 52)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:279 (1ad0c577f7e0 @ 39)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:96 (1ad0c577f100 @ 96)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:119 (1ad0c577f100 @ 369)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:136 (1ad0c577f100 @ 500)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:138 (1ad0c577f100 @ 572)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:93 (1ad0c577f100 @ 52)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:279 (1ad0c577f7e0 @ 39)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:96 (1ad0c577f100 @ 96)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:119 (1ad0c577f100 @ 369)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:136 (1ad0c577f100 @ 500)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:138 (1ad0c577f100 @ 572)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1520 (3eaf1ddf0290 @ 974)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14a8 i   resource:///org/gnome/shell/ui/messageTray.js:477 (3eaf1dd38fb0 @ 74)
+                                                             #1   5a6f1b5e1400 i   resource:///org/gnome/shell/ui/messageTray.js:473 (3eaf1dd38f60 @ 63)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/calendar.js:812 (3eaf1dd40970 @ 22)
+                                                             #3   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14a8 i   resource:///org/gnome/shell/ui/messageTray.js:478 (3eaf1dd38fb0 @ 89)
+                                                             #1   5a6f1b5e1400 i   resource:///org/gnome/shell/ui/messageTray.js:473 (3eaf1dd38f60 @ 63)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/calendar.js:812 (3eaf1dd40970 @ 22)
+                                                             #3   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14a8 i   resource:///org/gnome/shell/ui/messageTray.js:477 (3eaf1dd38fb0 @ 74)
+                                                             #1   5a6f1b5e1400 i   resource:///org/gnome/shell/ui/messageTray.js:473 (3eaf1dd38f60 @ 63)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/calendar.js:812 (3eaf1dd40970 @ 22)
+                                                             #3   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14a8 i   resource:///org/gnome/shell/ui/messageTray.js:478 (3eaf1dd38fb0 @ 89)
+                                                             #1   5a6f1b5e1400 i   resource:///org/gnome/shell/ui/messageTray.js:473 (3eaf1dd38f60 @ 63)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/calendar.js:812 (3eaf1dd40970 @ 22)
+                                                             #3   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:93 (1ad0c577f100 @ 52)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:279 (1ad0c577f7e0 @ 39)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:96 (1ad0c577f100 @ 96)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:119 (1ad0c577f100 @ 369)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:136 (1ad0c577f100 @ 500)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:138 (1ad0c577f100 @ 572)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:93 (1ad0c577f100 @ 52)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:279 (1ad0c577f7e0 @ 39)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:96 (1ad0c577f100 @ 96)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:119 (1ad0c577f100 @ 369)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f240 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:203 (1ad0c5797b50 @ 245)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:134 (1ad0c577f100 @ 484)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:136 (1ad0c577f100 @ 500)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd65587470 b   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd65587470 b   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   7ffd65587470 b   resource:///org/gnome/gjs/modules/core/overrides/GObject.js:681 (1ad0c579f1f0 @ 25)
+                                                             #1   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:137 (1ad0c577f100 @ 551)
+                                                             #2   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #3   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #4   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #5   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #6   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:138 (1ad0c577f100 @ 572)
+                                                             #1   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #2   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #3   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #4   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #5   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e1628 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f290 @ 15)
+                                                             #1   7ffd65587470 b   self-hosted:221 (1ad0c57709c0 @ 267)
+                                                             #2   5a6f1b5e1558 i   resource:///org/gnome/shell/ui/environment.js:141 (1ad0c577f100 @ 592)
+                                                             #3   5a6f1b5e14c0 i   resource:///org/gnome/shell/ui/environment.js:287 (1ad0c577f880 @ 19)
+                                                             #4   5a6f1b5e1420 i   resource:///org/gnome/shell/ui/windowManager.js:1502 (3eaf1ddf0290 @ 724)
+                                                             #5   5a6f1b5e1378 i   self-hosted:1461 (3c60aafc96f0 @ 30)
+                                                             #6   7ffd65587d40 b   self-hosted:852 (3c60aafc9b50 @ 15)
+                                                             #7   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14a8 i   resource:///org/gnome/shell/ui/messageTray.js:477 (3eaf1dd38fb0 @ 74)
+                                                             #1   5a6f1b5e1400 i   resource:///org/gnome/shell/ui/messageTray.js:473 (3eaf1dd38f60 @ 63)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/calendar.js:812 (3eaf1dd40970 @ 22)
+                                                             #3   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+                                                             == Stack trace for context 0x5a6f1b51ea30 ==
+                                                             #0   5a6f1b5e14a8 i   resource:///org/gnome/shell/ui/messageTray.js:478 (3eaf1dd38fb0 @ 89)
+                                                             #1   5a6f1b5e1400 i   resource:///org/gnome/shell/ui/messageTray.js:473 (3eaf1dd38f60 @ 63)
+                                                             #2   5a6f1b5e1378 i   resource:///org/gnome/shell/ui/calendar.js:812 (3eaf1dd40970 @ 22)
+                                                             #3   5a6f1b5e12e8 i   resource:///org/gnome/shell/ui/init.js:21 (1ad0c5770bf0 @ 48)
+-- Boot 2c6486ac1b0948ec9bc935fe5e3da151 --
+                                                             
+                                                             Stack trace:
+                                                               _promisify/proto[asyncFunc]/</<@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               ### Promise created here: ###
+                                                               _onConnected@resource:///org/gnome/shell/misc/inputMethod.js:71:46
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               
+                                                             
+                                                             Stack trace:
+                                                               _promisify/proto[asyncFunc]/</<@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               ### Promise created here: ###
+                                                               _setEngine@resource:///org/gnome/shell/misc/ibusManager.js:291:30
+                                                               setEngine@resource:///org/gnome/shell/misc/ibusManager.js:314:24
+                                                               activateInputSource@resource:///org/gnome/shell/ui/status/keyboard.js:527:31
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               activate@resource:///org/gnome/shell/ui/status/keyboard.js:68:14
+                                                               _inputSourcesChanged@resource:///org/gnome/shell/ui/status/keyboard.js:661:33
+                                                               reload@resource:///org/gnome/shell/ui/status/keyboard.js:396:14
+                                                               _ibusSetContentType@resource:///org/gnome/shell/ui/status/keyboard.js:736:14
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               _setContentType@resource:///org/gnome/shell/misc/ibusManager.js:266:14
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               
+                                                             
+                                                             Stack trace:
+                                                               _promisify/proto[asyncFunc]/</<@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               ### Promise created here: ###
+                                                               _setEngine@resource:///org/gnome/shell/misc/ibusManager.js:291:30
+                                                               setEngine@resource:///org/gnome/shell/misc/ibusManager.js:314:24
+                                                               activateInputSource@resource:///org/gnome/shell/ui/status/keyboard.js:527:31
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               activate@resource:///org/gnome/shell/ui/status/keyboard.js:68:14
+                                                               _inputSourcesChanged@resource:///org/gnome/shell/ui/status/keyboard.js:661:33
+                                                               reload@resource:///org/gnome/shell/ui/status/keyboard.js:396:14
+                                                               _ibusSetContentType@resource:///org/gnome/shell/ui/status/keyboard.js:736:14
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               _setContentType@resource:///org/gnome/shell/misc/ibusManager.js:266:14
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             == Stack trace for context 0x64d671913530 ==
+                                                             #0   64d6719dffe8 i   resource:///org/gnome/shell/ui/messageTray.js:477 (2c7f2c038fb0 @ 74)
+                                                             #1   64d6719dff40 i   resource:///org/gnome/shell/ui/messageTray.js:473 (2c7f2c038f60 @ 63)
+                                                             #2   64d6719dfeb8 i   resource:///org/gnome/shell/ui/calendar.js:812 (2c7f2c040970 @ 22)
+                                                             #3   64d6719dfe28 i   resource:///org/gnome/shell/ui/init.js:21 (250989070bf0 @ 48)
+                                                             == Stack trace for context 0x64d671913530 ==
+                                                             #0   64d6719dffe8 i   resource:///org/gnome/shell/ui/messageTray.js:478 (2c7f2c038fb0 @ 89)
+                                                             #1   64d6719dff40 i   resource:///org/gnome/shell/ui/messageTray.js:473 (2c7f2c038f60 @ 63)
+                                                             #2   64d6719dfeb8 i   resource:///org/gnome/shell/ui/calendar.js:812 (2c7f2c040970 @ 22)
+                                                             #3   64d6719dfe28 i   resource:///org/gnome/shell/ui/init.js:21 (250989070bf0 @ 48)
+-- Boot 5cbe8c4d946a469eb59662501c8285c4 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot 6c62fe186950497b9f1fcf4492b1f30b --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+                                                         GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+                                                         GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+                                                          GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+                                                          GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+-- Boot 14969ec35ee142599deb16a4b29b28fd --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot 2e4390c0e4bd40cf86bf3fcd87991633 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot 54b7f21e17c6450780a1830fe4519bea --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                                    - GtkCenterBox 0x5d6cd27571a0
+-- Boot 92be53a8545b48998293832cabdea28b --
+                                                              0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                              1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                              2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                              3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+                                                              == Stack trace for context 0x629731134de0 ==
+                                                              #0   629731201958 i   resource:///org/gnome/shell/ui/messageTray.js:477 (330ecac38fb0 @ 74)
+                                                              #1   6297312018b0 i   resource:///org/gnome/shell/ui/messageTray.js:473 (330ecac38f60 @ 63)
+                                                              #2   629731201828 i   resource:///org/gnome/shell/ui/calendar.js:812 (330ecac40970 @ 22)
+                                                              #3   629731201798 i   resource:///org/gnome/shell/ui/init.js:21 (7ccc6170bf0 @ 48)
+                                                              == Stack trace for context 0x629731134de0 ==
+                                                              #0   629731201958 i   resource:///org/gnome/shell/ui/messageTray.js:478 (330ecac38fb0 @ 89)
+                                                              #1   6297312018b0 i   resource:///org/gnome/shell/ui/messageTray.js:473 (330ecac38f60 @ 63)
+                                                              #2   629731201828 i   resource:///org/gnome/shell/ui/calendar.js:812 (330ecac40970 @ 22)
+                                                              #3   629731201798 i   resource:///org/gnome/shell/ui/init.js:21 (7ccc6170bf0 @ 48)
+-- Boot 68a19accf25d488899b44966126a2b7c --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot 3840dcf2821d49ec970c4f6db596fbfe --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot 0d98ed6a118944f8b3a681679e06ec6b --
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+-- Boot e1daa16c651847eca7d87da01a38909e --
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+                                                   exe="/usr/bin/dbus-daemon" sauid=101 hostname=? addr=? terminal=?'
+-- Boot 67f246bb12e64e9dadbb16469967d637 --
+-- Boot 67846e5a63fe431dbc1f90cf4d77fe0c --
+-- Boot d601341673bf43efaf2b3eb82760b00c --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot 602135dc927a46eb9a11a205eddae3e1 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot 1594bc4195aa49eb9573cc4ef9fc33dc --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot 9f952ead459741a6b7b563e9ad3fc5c4 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot 528859a0ec844c9ba89c89f57e1fa199 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot d03eae602dc643808ee4dc29df0bf132 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot cf42bd3fb8d54283ac5df7602689b9bd --
+-- Boot c8040efdfedc451487b18e0ba49d27ba --
+                                                             
+                                                             Stack trace:
+                                                               _promisify/proto[asyncFunc]/</<@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               ### Promise created here: ###
+                                                               _setEngine@resource:///org/gnome/shell/misc/ibusManager.js:291:30
+                                                               setEngine@resource:///org/gnome/shell/misc/ibusManager.js:314:24
+                                                               activateInputSource@resource:///org/gnome/shell/ui/status/keyboard.js:527:31
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               activate@resource:///org/gnome/shell/ui/status/keyboard.js:68:14
+                                                               _inputSourcesChanged@resource:///org/gnome/shell/ui/status/keyboard.js:661:33
+                                                               reload@resource:///org/gnome/shell/ui/status/keyboard.js:396:14
+                                                               _ibusSetContentType@resource:///org/gnome/shell/ui/status/keyboard.js:736:14
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               _setContentType@resource:///org/gnome/shell/misc/ibusManager.js:266:14
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot 9f185725c2d84a5a9477299748ef4d24 --
+                                                             
+                                                             Stack trace:
+                                                               _promisify/proto[asyncFunc]/</<@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               ### Promise created here: ###
+                                                               _setEngine@resource:///org/gnome/shell/misc/ibusManager.js:291:30
+                                                               setEngine@resource:///org/gnome/shell/misc/ibusManager.js:314:24
+                                                               activateInputSource@resource:///org/gnome/shell/ui/status/keyboard.js:527:31
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               activate@resource:///org/gnome/shell/ui/status/keyboard.js:68:14
+                                                               _inputSourcesChanged@resource:///org/gnome/shell/ui/status/keyboard.js:661:33
+                                                               reload@resource:///org/gnome/shell/ui/status/keyboard.js:396:14
+                                                               _ibusSetContentType@resource:///org/gnome/shell/ui/status/keyboard.js:736:14
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               _setContentType@resource:///org/gnome/shell/misc/ibusManager.js:266:14
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot 4f95d30d6a244759b831fa6644236b2e --
+-- Boot c00d40e4262f465aaa716752ea228660 --
+                                                             
+                                                             Stack trace:
+                                                               _promisify/proto[asyncFunc]/</<@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               ### Promise created here: ###
+                                                               _setEngine@resource:///org/gnome/shell/misc/ibusManager.js:291:30
+                                                               setEngine@resource:///org/gnome/shell/misc/ibusManager.js:314:24
+                                                               activateInputSource@resource:///org/gnome/shell/ui/status/keyboard.js:527:31
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               activate@resource:///org/gnome/shell/ui/status/keyboard.js:68:14
+                                                               _inputSourcesChanged@resource:///org/gnome/shell/ui/status/keyboard.js:661:33
+                                                               reload@resource:///org/gnome/shell/ui/status/keyboard.js:396:14
+                                                               _ibusSetContentType@resource:///org/gnome/shell/ui/status/keyboard.js:736:14
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               _setContentType@resource:///org/gnome/shell/misc/ibusManager.js:266:14
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot 3d5a03414ade49cb9cd0cdffbff7ec91 --
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot 53a19e9ce7204cdabde5c0a327984373 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot b02d295ea7914588b8897dc58a309538 --
+                                                             
+                                                             Stack trace:
+                                                               _promisify/proto[asyncFunc]/</<@resource:///org/gnome/gjs/modules/core/overrides/Gio.js:453:45
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               ### Promise created here: ###
+                                                               _setEngine@resource:///org/gnome/shell/misc/ibusManager.js:291:30
+                                                               setEngine@resource:///org/gnome/shell/misc/ibusManager.js:314:24
+                                                               activateInputSource@resource:///org/gnome/shell/ui/status/keyboard.js:527:31
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               activate@resource:///org/gnome/shell/ui/status/keyboard.js:68:14
+                                                               _inputSourcesChanged@resource:///org/gnome/shell/ui/status/keyboard.js:661:33
+                                                               reload@resource:///org/gnome/shell/ui/status/keyboard.js:396:14
+                                                               _ibusSetContentType@resource:///org/gnome/shell/ui/status/keyboard.js:736:14
+                                                               _callHandlers@resource:///org/gnome/gjs/modules/core/_signals.js:130:42
+                                                               _emit@resource:///org/gnome/gjs/modules/core/_signals.js:119:10
+                                                               _setContentType@resource:///org/gnome/shell/misc/ibusManager.js:266:14
+                                                               @resource:///org/gnome/shell/ui/init.js:21:20
+                                                               
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+-- Boot 3ee3b74c0caa4e8bba919e7cead3cdf8 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot 09ea66d99cc84b7f978b15badb0deaef --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
+                                                             @resource:///org/gnome/shell/ui/init.js:21:20
+-- Boot b8e27373ac6344b0b877c948a3bc6ef3 --
+                                                             0 inhibit() ["resource:///org/gnome/shell/misc/loginManager.js":209:8]
+                                                             1 InterpretGeneratorResume() ["self-hosted":1461:33]
+                                                             2 AsyncFunctionNext() ["self-hosted":852:26]
+                                                             3 anonymous() ["resource:///org/gnome/shell/ui/init.js":21:19]
